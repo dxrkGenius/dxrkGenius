@@ -1,6 +1,1 @@
-Plugin on my discord 
-install zip 
-drag in betterdiscord folder
-restart discord ctrl+r 
-go to setting
-active all plugin
+0 Plugin on my discord | 1 install zip | 2 drag in betterdiscord folder | 3 restart discord ctrl+r | 4 go to setting | 5 active all plugin
